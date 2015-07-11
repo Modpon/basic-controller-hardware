@@ -1,4 +1,4 @@
-# basic-controller-hardware
+# Basic Controller Hardware
 
 <p>Here you will find:</p>
 <ol>
