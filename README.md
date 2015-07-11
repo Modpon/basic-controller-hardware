@@ -5,7 +5,7 @@
 <p>Here you will find:</p>
 <ol>
 <li>Parts list</li>
-<li><a href="blob/master/pinList">Arduino PIN list</a></li>
+<li><a href="pinList">Arduino PIN list</a></li>
 <li>Wiring schema's</li>
 <li>Case design</li>
 </ol>
