@@ -1,9 +1,11 @@
 # basic-controller-hardware
 
-Here you will find:
-1. Parts list
-2. Arduino PIN list
-3. Wiring schema's
-4. Case design
+<p>Here you will find:</p>
+<ol>
+<li>Parts list</li>
+<li>Arduino PIN list</li>
+<li>Wiring schema's</li>
+<li>Case design</li>
+</ol>
 
-Look in the Basic Controller Code repository for the Arduino code.
+<p>Look in the Basic Controller Code repository for the Arduino code.</p>
