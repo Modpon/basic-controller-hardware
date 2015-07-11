@@ -1,5 +1,7 @@
 # Basic Controller Hardware
 
+![Alt text](https://raw.githubusercontent.com/Modpon/basic-controller-hardware/master/images/controller-v1.jpg "The first build of the basic controller")
+
 <p>Here you will find:</p>
 <ol>
 <li>Parts list</li>
