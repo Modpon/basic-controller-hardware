@@ -1,8 +1,8 @@
 
-Pin	Usage	
+Pin	  Usage	
 -------------------------------------------
 
-A0    Potentiometer 1	
+A0    	  Potentiometer 1	
 A1	  Potentiometer 2	
 A2	  Potentiometer 3	
 A3	  Unassigned	4Pin, vin, 5v, data, gnd
