@@ -1,0 +1,37 @@
+
+Pin	Usage	
+-------------------------------------------
+
+A0    Potentiometer 1	
+A1	  Potentiometer 2	
+A2	  Potentiometer 3	
+A3	  Unassigned	4Pin, vin, 5v, data, gnd
+A4	  SDA - Oled tft screen
+A5		?
+A6	  Unassigned	4Pin, vin, 5v, data, gnd
+A7	  Unassigned	4Pin, vin, 5v, data, gnd
+		
+D0	  Button unassigned	
+D1	  Button unassigned	
+D2	  Rotary	
+D3	  Rotary	
+D4	  Rotary	
+D5	  Water Temperature	
+D6	  DHT sensor	
+D7	  Potentiometer return	
+D8	  Controlled 12v output	
+D9	  Oled tft screen	
+D10	  Oled tft screen	
+D11	  Controlled 12v output	
+D12	  Controlled 12v output	
+D13	  SCK - Oled tft screen
+		
+GND		
+RST		
+RXD		
+TX		
+VIN		
+5V		
+3V		
+REF		
+3V3		
